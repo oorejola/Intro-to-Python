@@ -1,5 +1,5 @@
 # Intro-to-Python
-My lecture notes for the [Tulane Math Mini Summer School](https://sites.google.com/view/minimathschooltulane/schedule) 2024.
+Lecture notes for the Intro to Python course at the 2024 [Tulane Mini Math Summer School](https://sites.google.com/view/minimathschooltulane/schedule).
 
 The lecture is designed for those with little to no exposure to programming. We cover basic topics to get mathematics graduate students up and running with Python, Jupyter, and Google Colab. The notes include many exercises and solutions ranging from HackerRank-style problems to random matrix theory simulations.
 
