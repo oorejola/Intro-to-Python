@@ -1,7 +1,7 @@
 # Intro-to-Python
 Lecture notes for the Intro to Python course at the 2024 [Tulane Mini Math Summer School](https://sites.google.com/view/minimathschooltulane/schedule).
 
-The lecture is designed for those with little to no exposure to programming. We cover basic topics to get mathematics graduate students up and running with Python, Jupyter, and Google Colab. The notes include many exercises and solutions ranging from HackerRank-style problems to random matrix theory simulations.
+The lecture is designed for those with little to no exposure to programming. We cover basic topics to get mathematics graduate students up and running with Python, Jupyter, and Google Colab. We also cover multiple working examples making use of a few python libraries implementing linear regression with sklearn as well as neural networks with tensorflow. The notes include many exercises and solutions ranging from HackerRank-style problems to random matrix theory simulations.
 
 # Getting Started
 
