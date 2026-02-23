@@ -7,8 +7,8 @@ The lecture is designed for those with little to no exposure to programming. We 
 
 To get started with the project, you can run the notebook in Google Colab by clicking the badge below:
 
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([your_colab_notebook_url](https://colab.research.google.com/drive/1BdQDUbT1auYg_343ISJFs8ER2hSiYS6F?usp=sharing))
- 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BdQDUbT1auYg_343ISJFs8ER2hSiYS6F?usp=sharing)
+
 ## Table of Contents
 
 * Using Python and Jupyter notebooks
